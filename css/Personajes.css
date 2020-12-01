@@ -97,10 +97,10 @@
     border-radius: 10px;
 }
 body{
-    background: url('https://i.ytimg.com/vi/NFOXctlImL0/maxresdefault.jpg');
-    background-attachment: fixed;
-    background-repeat: no-repeat;
+    background-image: url('https://wallpapercave.com/wp/JokxUUo.jpg');
+    background-attachment:fixed;
     background-size: cover;
+    background-repeat: no-repeat;
 }
 .eretu{
     color: white;
