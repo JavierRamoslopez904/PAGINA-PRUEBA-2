@@ -4,6 +4,8 @@
 .Hobbit{
     text-align: center;
     font-size: 6em;
+    color: green;
+    font-family:Lucida Sans;
 }
 .maposo{
     margin-top: 160px;
