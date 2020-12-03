@@ -7,7 +7,7 @@
 .separacion{
     text-align: center;
     font-family: Brush Script MT;
-    color:blue;
+    color:yellow;
 }
 .bolbo{
     transition:transform 0.6s ;
@@ -122,4 +122,7 @@ body{
 }
 #hojoo:hover{
     background-color: lightblue;
+}
+.espacio{
+    color:yellow;
 }
